@@ -19,7 +19,13 @@ Meu nome é RAFAEL BOMBANA PASA 🤠.
 - ⚡ Curiosidade: já domei um touro
 
 Estou visitando a Alura;
+
 Estou me desenvolvendo na linguagem JavaScript
+
 utilizo esse espaço para a organização e compatilhamento dos meus projetos desenvolvidos
-Você entra em contato comigo 📫
-RAFAEL.PASA@ESCOLA.PR.GOV.BR
+
+Você entra em contato comigo
+
+📫 RAFAEL.PASA@ESCOLA.PR.GOV.BR
+
+ ![](https://media1.tenor.com/m/bMfFKLzvnbMAAAAd/mikey_draken.gif)
